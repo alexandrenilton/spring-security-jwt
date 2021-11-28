@@ -7,4 +7,4 @@ To change to using a DB change the source:
 ```
 io.javabrains.springsecurityjwt.services.MyUserDetailsService
 ```
-
+Check the Postman-Files directory to use the request using in this example.
